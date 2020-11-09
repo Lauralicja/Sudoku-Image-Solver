@@ -12,7 +12,7 @@ very quick solution with little amount of code. Simple CpModel and CpSolver are 
 
 In order to read images, MNIST dataset is used to train.
 
-From that, an algorithm with proper readings of hough lines is be applied (with cv2). 
+From that, an algorithm with proper readings of hough lines is applied (with cv2). 
 Finally, previously mentioned solver will take care of the rest.
 
 ## Files
